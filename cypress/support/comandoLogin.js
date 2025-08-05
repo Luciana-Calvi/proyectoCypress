@@ -4,6 +4,12 @@ Cypress.Commands.add('escribir', (selector,dato) => {
 
  })
 
+Cypress.Commands.add('escribir2', (selector,dato) => {
+
+    cy.get(selector).clear().type(dato)
+
+ })
+
  Cypress.Commands.add('mi_click', (selector) => {
 
     cy.get(selector).click()
