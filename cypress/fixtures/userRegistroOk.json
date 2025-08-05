@@ -1,0 +1,17 @@
+{
+  
+  "userId" : "Lulu",
+  "newPassword" : "j2ee",
+  "repeatPassword" : "j2ee",
+  "firstName" : "Belen",
+  "lastName" : "Perez",
+  "email" : "sfefg@hkhih",
+  "phone" : "2658879364",
+  "addressUno" : "20 de junio",
+  "addressDos" : "Payro 1941",
+  "city" : "Mendoza",
+  "state" : "Godoy Cruz",
+  "zip" : "5501",
+  "country" : "Argentina"
+  
+}

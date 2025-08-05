@@ -9,7 +9,9 @@ class login{
 
         buttonLogin : '[name="signon"]',
 
-        msj : '#Content > ul'
+        msj : '#Content > ul',
+
+        msj2 : '#WelcomeContent'
         
     }
 

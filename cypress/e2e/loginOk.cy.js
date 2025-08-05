@@ -18,9 +18,11 @@ describe('Test Web Automation in testing',{testIsolation:false}, () =>{
         cy.mi_click(login.form.buttonSignIn)
 
         cy.escribir(login.form.username,misDatos.username)
-        cy.escribir(login.form.password,misDatos.password)
+       // cy.escribir(login.form.password,misDatos.password)
         
         cy.mi_click(login.form.buttonLogin)
+
+        cy.asersionFail(login.form.msj2)
 
     })
 
