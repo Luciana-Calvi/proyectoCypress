@@ -18,7 +18,7 @@
 
 ## 🎯 Objetivo del Proyecto
   
-      El objetivo de este repositorio es demostrar mis habilidades en pruebas automatizadas utilizando Selenium Java, validando el flujo completo de inicio de sesion y registro
+      El objetivo de este repositorio es demostrar mis habilidades en pruebas automatizadas utilizando Cypress, validando el flujo completo de inicio de sesion y registro
       Este proyecto forma parte de mi portafolio como QA Manual con conocimientos en automatización.
 
 ## 📥 Clonación del Repositorio
@@ -26,8 +26,6 @@
       Para obtener una copia local del proyecto, ejecuta el siguiente comando en tu terminal:
       https://github.com/Luciana-Calvi/proyectoCypress.git
 
-      https://github.com/Luciana-Calvi/proyectoCypress.git
-      
 ## 🚀 Pruebas Realizadas
 
       📌 loginOk.cy.js - Incluye un caso positivo (credenciales válidas) y uno negativo (credenciales inválidas, verificación del mensaje de error y captura de pantalla).
