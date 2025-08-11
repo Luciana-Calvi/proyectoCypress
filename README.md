@@ -29,7 +29,6 @@
 ## 🚀 Pruebas Realizadas
 
       📌 loginOk.cy.js - Incluye un caso positivo (credenciales válidas) y uno negativo (credenciales inválidas, verificación del mensaje de error y captura de pantalla).
-
       📌 loginFail.cy.js - Incluye un caso negativo (credenciales inválidas, verificación del mensaje de   error).
       📌 registroOk.cy.js - Incluye casos positivos.
       📌 registroFail.cy.js - Incluye casos negativos y con campos vacíos. 
